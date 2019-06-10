@@ -26,11 +26,11 @@ trials = 3
 
 # 数据地址
 dataset_all = [
-    'dataPickle2/segment.pkl.gz',
-    'dataPickle2/optdigits.pkl.gz',
-     'dataPickle2/sat.pkl.gz',
-     'dataPickle2/pendigits.pkl.gz',
-     'dataPickle2/letter-recognition.pkl.gz'
+    'dataset/segment.pkl.gz',
+    'dataset/optdigits.pkl.gz',
+     'dataset/sat.pkl.gz',
+     'dataset/pendigits.pkl.gz',
+     'dataset/letter-recognition.pkl.gz'
     ]
 
 
